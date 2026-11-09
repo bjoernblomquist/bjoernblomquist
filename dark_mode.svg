@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace" width="1040px" height="550px" font-size="16px">
+<style>.ink{fill:#e6ebef}.dot{fill:#5c6670}.key{fill:#ffb51f}.val{fill:#9ecbff}.amber{fill:#ffb51f}text,tspan{white-space:pre}</style>
+<rect width="1040px" height="550px" fill="#121314" rx="15"/>
+<text x="15" y="30" class="ink">
+<tspan x="15" y="70"><tspan class="ink">                                          </tspan></tspan>
+<tspan x="15" y="90"><tspan class="ink">              ,*%##%x-                    </tspan></tspan>
+<tspan x="15" y="110"><tspan class="ink">             ;@@@@@@@@x                   </tspan></tspan>
+<tspan x="15" y="130"><tspan class="ink">             x@@@@@@@@@, ..,,,,,,,,..     </tspan></tspan>
+<tspan x="15" y="150"><tspan class="ink">             -@@@@@@@@#=:</tspan><tspan class="amber">:;;------;;</tspan><tspan class="ink">:,.   </tspan></tspan>
+<tspan x="15" y="170"><tspan class="ink">            +#@#xX%X*X#@#X</tspan><tspan class="amber">++*xxxx*==-;:</tspan><tspan class="ink">,. </tspan></tspan>
+<tspan x="15" y="190"><tspan class="ink">          -%@@x,    .:</tspan><tspan class="amber">-</tspan><tspan class="ink">x##</tspan><tspan class="amber">%%%%%%%%%x=--:</tspan><tspan class="ink">,.</tspan></tspan>
+<tspan x="15" y="210"><tspan class="ink">    ;+**+X@@X:     .,</tspan><tspan class="amber">;-=*%%%%%%%%%%%X=-;:</tspan><tspan class="ink">,</tspan></tspan>
+<tspan x="15" y="230"><tspan class="ink">  ;#@@@@@@@*       .,</tspan><tspan class="amber">;-=x%%%%%%%%%%%%+=-:</tspan><tspan class="ink">,</tspan></tspan>
+<tspan x="15" y="250"><tspan class="ink">  %@@@@@@@@%       .,</tspan><tspan class="amber">:-=+%%%%%%%%%%%X=-;:</tspan><tspan class="ink">,</tspan></tspan>
+<tspan x="15" y="270"><tspan class="ink">  x@@@@@@@@x        .,</tspan><tspan class="amber">;-=+X%%%%%%%%x=-;:</tspan><tspan class="ink">,.</tspan></tspan>
+<tspan x="15" y="290"><tspan class="ink">   =X@@@@X=          .,</tspan><tspan class="amber">:;-==**xx*+=--;</tspan><tspan class="ink">:,. </tspan></tspan>
+<tspan x="15" y="310"><tspan class="ink">      ..              ..,</tspan><tspan class="amber">:;;-----;;:</tspan><tspan class="ink">:,.   </tspan></tspan>
+<tspan x="15" y="330"><tspan class="ink">                         ..,,,,,,,..      </tspan></tspan>
+<tspan x="15" y="350"><tspan class="ink">                                          </tspan></tspan>
+<tspan x="15" y="370"><tspan class="ink"> _          _  _      _           _       </tspan></tspan>
+<tspan x="15" y="390"><tspan class="ink">| |__  ___ | || | __ | |_   __ _ (_) _ _  </tspan></tspan>
+<tspan x="15" y="410"><tspan class="ink">| &#x27;_ \/ -_)| || |/ _|| &#x27; \ / _` || || &#x27; \ </tspan></tspan>
+<tspan x="15" y="430"><tspan class="ink">|_.__/\___||_||_|\__||_||_|\__,_||_||_||_|</tspan></tspan>
+<tspan x="15" y="450"><tspan class="ink">                                          </tspan></tspan>
+<tspan x="15" y="470"><tspan class="dot">          crypto alerts, no code          </tspan></tspan>
+</text>
+<text x="455" y="30" class="ink">
+<tspan x="455" y="30"><tspan class="ink">bjoern</tspan><tspan class="amber">@</tspan><tspan class="ink">bellchain </tspan><tspan class="dot">—————————————————————————————————————————</tspan></tspan>
+<tspan x="455" y="50"><tspan class="dot">. </tspan><tspan class="key">Role</tspan><tspan class="ink">:</tspan><tspan class="dot"> ................................ </tspan><tspan class="val">Founder, Bellchain</tspan></tspan>
+<tspan x="455" y="70"><tspan class="dot">. </tspan><tspan class="key">Base</tspan><tspan class="ink">:</tspan><tspan class="dot"> ....................................... </tspan><tspan class="val">Switzerland</tspan></tspan>
+<tspan x="455" y="90"><tspan class="dot">. </tspan><tspan class="key">Building</tspan><tspan class="ink">:</tspan><tspan class="dot"> ......................... </tspan><tspan class="val">No-code crypto alerts</tspan></tspan>
+<tspan x="455" y="110"><tspan class="dot">. </tspan><tspan class="key">Uptime</tspan><tspan class="ink">:</tspan><tspan class="dot"> ............... </tspan><tspan class="val">live since Oct 2026, 60+ releases</tspan></tspan>
+<tspan x="455" y="130"></tspan>
+<tspan x="455" y="150"><tspan class="dot">. </tspan><tspan class="key">Stack.Web</tspan><tspan class="ink">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">Next.js, React, Astro</tspan></tspan>
+<tspan x="455" y="170"><tspan class="dot">. </tspan><tspan class="key">Stack.Server</tspan><tspan class="ink">:</tspan><tspan class="dot"> .......... </tspan><tspan class="val">Node.js, PostgreSQL, TimescaleDB</tspan></tspan>
+<tspan x="455" y="190"><tspan class="dot">. </tspan><tspan class="key">Stack.Ops</tspan><tspan class="ink">:</tspan><tspan class="dot"> ......................... </tspan><tspan class="val">Docker, Caddy, Linux</tspan></tspan>
+<tspan x="455" y="210"><tspan class="dot">. </tspan><tspan class="key">Stack.AI</tspan><tspan class="ink">:</tspan><tspan class="dot"> ............................ </tspan><tspan class="val">Claude, MCP server</tspan></tspan>
+<tspan x="455" y="230"></tspan>
+<tspan x="455" y="250"><tspan class="dot">. </tspan><tspan class="key">Alerts.Via</tspan><tspan class="ink">:</tspan><tspan class="dot"> .... </tspan><tspan class="val">Telegram, Push, Email, Discord, Webhooks</tspan></tspan>
+<tspan x="455" y="270"><tspan class="dot">. </tspan><tspan class="key">App.Languages</tspan><tspan class="ink">:</tspan><tspan class="dot"> ..... </tspan><tspan class="val">German, English, Spanish, Portuguese</tspan></tspan>
+<tspan x="455" y="290"></tspan>
+<tspan x="455" y="310"><tspan class="ink">- Contact </tspan><tspan class="dot">————————————————————————————————————————————————</tspan></tspan>
+<tspan x="455" y="330"><tspan class="dot">. </tspan><tspan class="key">Website</tspan><tspan class="ink">:</tspan><tspan class="dot"> .................................. </tspan><tspan class="val">bellchain.app</tspan></tspan>
+<tspan x="455" y="350"><tspan class="dot">. </tspan><tspan class="key">Docs</tspan><tspan class="ink">:</tspan><tspan class="dot"> ................................ </tspan><tspan class="val">docs.bellchain.app</tspan></tspan>
+<tspan x="455" y="370"><tspan class="dot">. </tspan><tspan class="key">X</tspan><tspan class="ink">:</tspan><tspan class="dot"> ........................................ </tspan><tspan class="val">@bellchainapp</tspan></tspan>
+<tspan x="455" y="390"><tspan class="dot">. </tspan><tspan class="key">Telegram</tspan><tspan class="ink">:</tspan><tspan class="dot"> ............................. </tspan><tspan class="val">t.me/bellchainapp</tspan></tspan>
+<tspan x="455" y="410"><tspan class="dot">. </tspan><tspan class="key">GitHub</tspan><tspan class="ink">:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">github.com/bellchain-app</tspan></tspan>
+<tspan x="455" y="430"></tspan>
+<tspan x="455" y="450"><tspan class="ink">- Bellchain Stats </tspan><tspan class="dot">————————————————————————————————————————</tspan></tspan>
+<tspan x="455" y="470"><tspan class="dot">. </tspan><tspan class="key">Commits</tspan><tspan class="ink">:</tspan><tspan class="dot"> .......... </tspan><tspan class="val">1,000+</tspan><tspan class="ink"> | </tspan><tspan class="key">Releases</tspan><tspan class="ink">:</tspan><tspan class="dot"> .............. </tspan><tspan class="val">60+</tspan></tspan>
+<tspan x="455" y="490"><tspan class="dot">. </tspan><tspan class="key">Packages</tspan><tspan class="ink">:</tspan><tspan class="dot"> ............. </tspan><tspan class="val">11</tspan><tspan class="ink"> | </tspan><tspan class="key">Apps</tspan><tspan class="ink">:</tspan><tspan class="dot"> .................... </tspan><tspan class="val">4</tspan></tspan>
+<tspan x="455" y="510"><tspan class="dot">. </tspan><tspan class="key">Lines of TypeScript</tspan><tspan class="ink">:</tspan><tspan class="dot"> .............................. </tspan><tspan class="val">270k+</tspan></tspan>
+</text>
+</svg>
